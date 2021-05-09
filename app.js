@@ -1,33 +1,33 @@
 const quiz = [
   {
-    question : '第一問、問題の答えは？',
+    question : 'BLACKPINKのデビュー日は？',
     answers : [
-      '誤った答え01',
-      '正しい答え01',
-      '誤った答え02',
-      '誤った答え03',
+      '8月8日',
+      '8月16日',
+      '9月9日',
+      '7月7日',
     ],
-    correnct : '正しい答え01'
+    correnct : '8月8日'
   },
   {
-    question :'第二問、問題の答えは？',
+    question :'BLACKPINKが日本初のLIVEをおこなった場所は？',
     answers : [
-      '誤った答え04',
-      '正しい答え02',
-      '誤った答え05',
-      '誤った答え06',
+      '東京ドーム',
+      '京セラドーム',
+      '日本武道館',
+      '名古屋ドーム',
     ],
-    correnct : '正しい答え02'
+    correnct : '日本武道館'
   },
   {
-    question : '第三問、問題の答えは？',
+    question : 'BLACKPINKのファンの事を何と呼ぶ？',
     answers : [
-      '誤った答え07',
-      '正しい答え03',
-      '誤った答え08',
-      '誤った答え09',
+      'BLACKPINK\'s fan',
+      'BLINK',
+      'BP family',
+      'Lovesick Girls',
     ],
-    correnct : '正しい答え03'
+    correnct : 'BLINK'
   }
 ];
 
